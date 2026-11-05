@@ -1,0 +1,987 @@
+{
+  "line": "Star Wars The Black Series",
+  "source": "Jedi Temple Archives \u2014 Star Wars The Black Series Phase IV Visual Guide (https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/) and Archive Visual Guide (https://jeditemplearchives.com/star-wars-the-black-series-archive/). Names and wave/year assignments transcribed from those public checklists for MVP seeding. Not affiliated with Lucasfilm or Hasbro.",
+  "figures": [
+    {
+      "id": "bs-admiral-ackbar-return-of-the-jedi-01-2020-wave-1",
+      "name": "Admiral Ackbar (Return of the Jedi 01)",
+      "year": 2020,
+      "wave": "Wave 1",
+      "line": "Star Wars The Black Series",
+      "character": "Admiral Ackbar",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-the-mandalorian-the-mandalorian-01-2020-wave-1",
+      "name": "The Mandalorian (The Mandalorian 01)",
+      "year": 2020,
+      "wave": "Wave 1",
+      "line": "Star Wars The Black Series",
+      "character": "The Mandalorian",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-the-armorer-the-mandalorian-04-2020-wave-2",
+      "name": "The Armorer (The Mandalorian 04)",
+      "year": 2020,
+      "wave": "Wave 2",
+      "line": "Star Wars The Black Series",
+      "character": "The Armorer",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-cad-bane-the-clone-wars-06-2020-wave-2",
+      "name": "Cad Bane (The Clone Wars 06)",
+      "year": 2020,
+      "wave": "Wave 2",
+      "line": "Star Wars The Black Series",
+      "character": "Cad Bane",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-han-solo-endor-return-of-the-jedi-05-2020-wave-2",
+      "name": "Han Solo (Endor) (Return of the Jedi 05)",
+      "year": 2020,
+      "wave": "Wave 2",
+      "line": "Star Wars The Black Series",
+      "character": "Han Solo",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-incinerator-trooper-the-mandalorian-03-2020-wave-2",
+      "name": "Incinerator Trooper (The Mandalorian 03)",
+      "year": 2020,
+      "wave": "Wave 2",
+      "line": "Star Wars The Black Series",
+      "character": "Incinerator Trooper",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-luke-skywalker-endor-return-of-the-jedi-04-2020-wave-2",
+      "name": "Luke Skywalker (Endor) (Return of the Jedi 04)",
+      "year": 2020,
+      "wave": "Wave 2",
+      "line": "Star Wars The Black Series",
+      "character": "Luke Skywalker",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-rebel-trooper-hoth-the-empire-strikes-back-03-2020-wave-2",
+      "name": "Rebel Trooper (Hoth) (The Empire Strikes Back 03)",
+      "year": 2020,
+      "wave": "Wave 2",
+      "line": "Star Wars The Black Series",
+      "character": "Rebel Trooper",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-phase-i-clone-trooper-attack-of-the-clones-02-2020-wave-2",
+      "name": "Phase I Clone Trooper (Attack of the Clones 02)",
+      "year": 2020,
+      "wave": "Wave 2",
+      "line": "Star Wars The Black Series",
+      "character": "Phase I Clone Trooper",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-princess-leia-organa-endor-return-of-the-jedi-03-2020-wave-2",
+      "name": "Princess Leia Organa (Endor) (Return of the Jedi 03)",
+      "year": 2020,
+      "wave": "Wave 2",
+      "line": "Star Wars The Black Series",
+      "character": "Princess Leia Organa",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-greef-karga-the-mandalorian-06-2020-wave-3",
+      "name": "Greef Karga (The Mandalorian 06)",
+      "year": 2020,
+      "wave": "Wave 3",
+      "line": "Star Wars The Black Series",
+      "character": "Greef Karga",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-moff-gideon-the-mandalorian-08-2020-wave-3",
+      "name": "Moff Gideon (The Mandalorian 08)",
+      "year": 2020,
+      "wave": "Wave 3",
+      "line": "Star Wars The Black Series",
+      "character": "Moff Gideon",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-rey-dark-side-vision-the-rise-of-skywalker-01-2020-wave-3",
+      "name": "Rey (Dark Side Vision) (The Rise of Skywalker 01)",
+      "year": 2020,
+      "wave": "Wave 3",
+      "line": "Star Wars The Black Series",
+      "character": "Rey",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-jar-jar-binks-the-phantom-menace-01-2020-deluxe",
+      "name": "Jar Jar Binks (The Phantom Menace 01)",
+      "year": 2020,
+      "wave": "Deluxe",
+      "line": "Star Wars The Black Series",
+      "character": "Jar Jar Binks",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-ahsoka-tano-star-wars-rebels-07-2020-fan-channel",
+      "name": "Ahsoka Tano (Star Wars Rebels 07)",
+      "year": 2020,
+      "wave": "Fan Channel",
+      "line": "Star Wars The Black Series",
+      "character": "Ahsoka Tano",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-asajj-ventress-the-clone-wars-07-2021-wave-4",
+      "name": "Asajj Ventress (The Clone Wars 07)",
+      "year": 2021,
+      "wave": "Wave 4",
+      "line": "Star Wars The Black Series",
+      "character": "Asajj Ventress",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-aurra-sing-the-clone-wars-08-2021-wave-5",
+      "name": "Aurra Sing (The Clone Wars 08)",
+      "year": 2021,
+      "wave": "Wave 5",
+      "line": "Star Wars The Black Series",
+      "character": "Aurra Sing",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-q9-0-zero-the-mandalorian-11-2021-wave-5",
+      "name": "Q9-0 (Zero) (The Mandalorian 11)",
+      "year": 2021,
+      "wave": "Wave 5",
+      "line": "Star Wars The Black Series",
+      "character": "Q9-0",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-tech-the-bad-batch-04-2021-wave-5",
+      "name": "Tech (The Bad Batch 04)",
+      "year": 2021,
+      "wave": "Wave 5",
+      "line": "Star Wars The Black Series",
+      "character": "Tech",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-boba-fett-return-of-the-jedi-06-2021-deluxe",
+      "name": "Boba Fett (Return of the Jedi 06)",
+      "year": 2021,
+      "wave": "Deluxe",
+      "line": "Star Wars The Black Series",
+      "character": "Boba Fett",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-wrecker-the-bad-batch-05-2021-deluxe",
+      "name": "Wrecker (The Bad Batch 05)",
+      "year": 2021,
+      "wave": "Deluxe",
+      "line": "Star Wars The Black Series",
+      "character": "Wrecker",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-bib-fortuna-return-of-the-jedi-08-2021-wave-6",
+      "name": "Bib Fortuna (Return of the Jedi 08)",
+      "year": 2021,
+      "wave": "Wave 6",
+      "line": "Star Wars The Black Series",
+      "character": "Bib Fortuna",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-migs-mayfeld-morak-the-mandalorian-15-2021-wave-6",
+      "name": "Migs Mayfeld (Morak) (The Mandalorian 15)",
+      "year": 2021,
+      "wave": "Wave 6",
+      "line": "Star Wars The Black Series",
+      "character": "Migs Mayfeld",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-princess-leia-organa-yavin-4-a-new-hope-01-2021-wave-6",
+      "name": "Princess Leia Organa (Yavin 4) (A New Hope 01)",
+      "year": 2021,
+      "wave": "Wave 6",
+      "line": "Star Wars The Black Series",
+      "character": "Princess Leia Organa",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-stormtrooper-jedha-patrol-rogue-one-09-2021-wave-6",
+      "name": "Stormtrooper Jedha Patrol (Rogue One 09)",
+      "year": 2021,
+      "wave": "Wave 6",
+      "line": "Star Wars The Black Series",
+      "character": "Stormtrooper Jedha Patrol",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-ahsoka-tano-the-mandalorian-19-2021-wave-7",
+      "name": "Ahsoka Tano (The Mandalorian 19)",
+      "year": 2021,
+      "wave": "Wave 7",
+      "line": "Star Wars The Black Series",
+      "character": "Ahsoka Tano",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-darth-vader-obi-wan-kenobi-02-2022-wave-8",
+      "name": "Darth Vader (Obi-Wan Kenobi 02)",
+      "year": 2022,
+      "wave": "Wave 8",
+      "line": "Star Wars The Black Series",
+      "character": "Darth Vader",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-fifth-brother-inquisitor-obi-wan-kenobi-04-2022-wave-8",
+      "name": "Fifth Brother (Inquisitor) (Obi-Wan Kenobi 04)",
+      "year": 2022,
+      "wave": "Wave 8",
+      "line": "Star Wars The Black Series",
+      "character": "Fifth Brother",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-reva-third-sister-obi-wan-kenobi-03-2022-wave-8",
+      "name": "Reva (Third Sister) (Obi-Wan Kenobi 03)",
+      "year": 2022,
+      "wave": "Wave 8",
+      "line": "Star Wars The Black Series",
+      "character": "Reva",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-boba-fett-throne-room-tbobf-02-2022-deluxe",
+      "name": "Boba Fett (Throne Room) (TBOBF 02)",
+      "year": 2022,
+      "wave": "Deluxe",
+      "line": "Star Wars The Black Series",
+      "character": "Boba Fett",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-cobb-vanth-the-mandalorian-18-2022-deluxe",
+      "name": "Cobb Vanth (The Mandalorian 18)",
+      "year": 2022,
+      "wave": "Deluxe",
+      "line": "Star Wars The Black Series",
+      "character": "Cobb Vanth",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-dark-trooper-the-mandalorian-28-2022-deluxe",
+      "name": "Dark Trooper (The Mandalorian 28)",
+      "year": 2022,
+      "wave": "Deluxe",
+      "line": "Star Wars The Black Series",
+      "character": "Dark Trooper",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-ned-b-obi-wan-kenobi-10-2022-deluxe",
+      "name": "NED-B (Obi-Wan Kenobi 10)",
+      "year": 2022,
+      "wave": "Deluxe",
+      "line": "Star Wars The Black Series",
+      "character": "NED-B",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-saw-gerrera-rogue-one-10-2022-deluxe",
+      "name": "Saw Gerrera (Rogue One 10)",
+      "year": 2022,
+      "wave": "Deluxe",
+      "line": "Star Wars The Black Series",
+      "character": "Saw Gerrera",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-aayla-secura-attack-of-the-clones-03-2022-wave-9",
+      "name": "Aayla Secura (Attack of the Clones 03)",
+      "year": 2022,
+      "wave": "Wave 9",
+      "line": "Star Wars The Black Series",
+      "character": "Aayla Secura",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-axe-woves-the-mandalorian-25-2022-wave-9",
+      "name": "Axe Woves (The Mandalorian 25)",
+      "year": 2022,
+      "wave": "Wave 9",
+      "line": "Star Wars The Black Series",
+      "character": "Axe Woves",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-darth-maul-the-clone-wars-11-2022-wave-9",
+      "name": "Darth Maul (The Clone Wars 11)",
+      "year": 2022,
+      "wave": "Wave 9",
+      "line": "Star Wars The Black Series",
+      "character": "Darth Maul",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-grand-inquisitor-obi-wan-kenobi-09-2022-wave-9",
+      "name": "Grand Inquisitor (Obi-Wan Kenobi 09)",
+      "year": 2022,
+      "wave": "Wave 9",
+      "line": "Star Wars The Black Series",
+      "character": "Grand Inquisitor",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-grogu-the-mandalorian-26-2022-wave-9",
+      "name": "Grogu (The Mandalorian 26)",
+      "year": 2022,
+      "wave": "Wave 9",
+      "line": "Star Wars The Black Series",
+      "character": "Grogu",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-magistrate-greef-karga-the-mandalorian-24-2022-wave-9",
+      "name": "Magistrate Greef Karga (The Mandalorian 24)",
+      "year": 2022,
+      "wave": "Wave 9",
+      "line": "Star Wars The Black Series",
+      "character": "Magistrate Greef Karga",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-migs-mayfeld-the-mandalorian-27-2022-wave-9",
+      "name": "Migs Mayfeld (The Mandalorian 27)",
+      "year": 2022,
+      "wave": "Wave 9",
+      "line": "Star Wars The Black Series",
+      "character": "Migs Mayfeld",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-bix-caleen-andor-05-2022-wave-10",
+      "name": "Bix Caleen (Andor 05)",
+      "year": 2022,
+      "wave": "Wave 10",
+      "line": "Star Wars The Black Series",
+      "character": "Bix Caleen",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-cal-kestis-gaming-greats-17-jedi-survivor-2022-wave-10",
+      "name": "Cal Kestis (Gaming Greats 17 - Jedi: Survivor)",
+      "year": 2022,
+      "wave": "Wave 10",
+      "line": "Star Wars The Black Series",
+      "character": "Cal Kestis",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-cassian-andor-andor-08-2022-wave-10",
+      "name": "Cassian Andor (Andor 08)",
+      "year": 2022,
+      "wave": "Wave 10",
+      "line": "Star Wars The Black Series",
+      "character": "Cassian Andor",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-din-djarin-morak-the-mandalorian-31-2022-wave-10",
+      "name": "Din Djarin (Morak) (The Mandalorian 31)",
+      "year": 2022,
+      "wave": "Wave 10",
+      "line": "Star Wars The Black Series",
+      "character": "Din Djarin",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-hk-87-the-mandalorian-29-2022-wave-10",
+      "name": "HK-87 (The Mandalorian 29)",
+      "year": 2022,
+      "wave": "Wave 10",
+      "line": "Star Wars The Black Series",
+      "character": "HK-87",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-luke-skywalker-imperial-light-cruiser-tm-30-2022-wave-10",
+      "name": "Luke Skywalker (Imperial Light Cruiser) (TM 30)",
+      "year": 2022,
+      "wave": "Wave 10",
+      "line": "Star Wars The Black Series",
+      "character": "Luke Skywalker",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-luthen-rael-andor-06-2022-wave-10",
+      "name": "Luthen Rael (Andor 06)",
+      "year": 2022,
+      "wave": "Wave 10",
+      "line": "Star Wars The Black Series",
+      "character": "Luthen Rael",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-mon-mothma-andor-07-2022-wave-10",
+      "name": "Mon Mothma (Andor 07)",
+      "year": 2022,
+      "wave": "Wave 10",
+      "line": "Star Wars The Black Series",
+      "character": "Mon Mothma",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-fourth-sister-inquisitor-obi-wan-kenobi-12-2022-wave-11",
+      "name": "Fourth Sister (Inquisitor) (Obi-Wan Kenobi 12)",
+      "year": 2022,
+      "wave": "Wave 11",
+      "line": "Star Wars The Black Series",
+      "character": "Fourth Sister",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-obi-wan-kenobi-jabiim-obi-wan-kenobi-11-2022-wave-11",
+      "name": "Obi-Wan Kenobi (Jabiim) (Obi-Wan Kenobi 11)",
+      "year": 2022,
+      "wave": "Wave 11",
+      "line": "Star Wars The Black Series",
+      "character": "Obi-Wan Kenobi",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-tala-imperial-officer-obi-wan-kenobi-13-2022-wave-11",
+      "name": "Tala (Imperial Officer) (Obi-Wan Kenobi 13)",
+      "year": 2022,
+      "wave": "Wave 11",
+      "line": "Star Wars The Black Series",
+      "character": "Tala",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-vel-sartha-andor-08-2022-wave-11",
+      "name": "Vel Sartha (Andor 08)",
+      "year": 2022,
+      "wave": "Wave 11",
+      "line": "Star Wars The Black Series",
+      "character": "Vel Sartha",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-darth-malak-gaming-greats-20-kotor-2022-wave-11",
+      "name": "Darth Malak (Gaming Greats 20 - KOTOR)",
+      "year": 2022,
+      "wave": "Wave 11",
+      "line": "Star Wars The Black Series",
+      "character": "Darth Malak",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-bastilla-shan-gaming-greats-21-kotor-2022-wave-11",
+      "name": "Bastilla Shan (Gaming Greats 21 - KOTOR)",
+      "year": 2022,
+      "wave": "Wave 11",
+      "line": "Star Wars The Black Series",
+      "character": "Bastilla Shan",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-ahsoka-tano-ahsoka-01-2023-wave-12",
+      "name": "Ahsoka Tano (Ahsoka 01)",
+      "year": 2023,
+      "wave": "Wave 12",
+      "line": "Star Wars The Black Series",
+      "character": "Ahsoka Tano",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-chopper-c1-10p-star-wars-rebels-02-2023-wave-12",
+      "name": "Chopper (C1-10P) (Star Wars Rebels 02)",
+      "year": 2023,
+      "wave": "Wave 12",
+      "line": "Star Wars The Black Series",
+      "character": "Chopper",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-ezra-bridger-lothal-ahsoka-02-2023-wave-12",
+      "name": "Ezra Bridger (Lothal) (Ahsoka 02)",
+      "year": 2023,
+      "wave": "Wave 12",
+      "line": "Star Wars The Black Series",
+      "character": "Ezra Bridger",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-hk-87-assassin-droid-ahsoka-05-2023-wave-12",
+      "name": "HK-87 Assassin Droid (Ahsoka 05)",
+      "year": 2023,
+      "wave": "Wave 12",
+      "line": "Star Wars The Black Series",
+      "character": "HK-87 Assassin Droid",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-morgan-elsbeth-ahsoka-04-2023-wave-12",
+      "name": "Morgan Elsbeth (Ahsoka 04)",
+      "year": 2023,
+      "wave": "Wave 12",
+      "line": "Star Wars The Black Series",
+      "character": "Morgan Elsbeth",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-sabine-wren-ahsoka-03-2023-wave-12",
+      "name": "Sabine Wren (Ahsoka 03)",
+      "year": 2023,
+      "wave": "Wave 12",
+      "line": "Star Wars The Black Series",
+      "character": "Sabine Wren",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-ahsoka-tano-padawan-the-clone-wars-13-2023-wave-13",
+      "name": "Ahsoka Tano (Padawan) (The Clone Wars 13)",
+      "year": 2023,
+      "wave": "Wave 13",
+      "line": "Star Wars The Black Series",
+      "character": "Ahsoka Tano",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-chewbacca-rotj-10-2023-wave-13",
+      "name": "Chewbacca (ROTJ 10)",
+      "year": 2023,
+      "wave": "Wave 13",
+      "line": "Star Wars The Black Series",
+      "character": "Chewbacca",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-magnaguard-the-clone-wars-15-2023-wave-13",
+      "name": "MagnaGuard (The Clone Wars 15)",
+      "year": 2023,
+      "wave": "Wave 13",
+      "line": "Star Wars The Black Series",
+      "character": "MagnaGuard",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-omega-mercenary-gear-the-bad-batch-18-2023-wave-13",
+      "name": "Omega (Mercenary Gear) (The Bad Batch 18)",
+      "year": 2023,
+      "wave": "Wave 13",
+      "line": "Star Wars The Black Series",
+      "character": "Omega",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-phase-ii-clone-trooper-the-clone-wars-14-2023-wave-13",
+      "name": "Phase II Clone Trooper (The Clone Wars 14)",
+      "year": 2023,
+      "wave": "Wave 13",
+      "line": "Star Wars The Black Series",
+      "character": "Phase II Clone Trooper",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-wicket-rotj-11-2023-wave-13",
+      "name": "Wicket (ROTJ 11)",
+      "year": 2023,
+      "wave": "Wave 13",
+      "line": "Star Wars The Black Series",
+      "character": "Wicket",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-general-hera-syndulla-ahsoka-06-2023-wave-14",
+      "name": "General Hera Syndulla (Ahsoka 06)",
+      "year": 2023,
+      "wave": "Wave 14",
+      "line": "Star Wars The Black Series",
+      "character": "General Hera Syndulla",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-marrok-ahsoka-08-2023-wave-14",
+      "name": "Marrok (Ahsoka 08)",
+      "year": 2023,
+      "wave": "Wave 14",
+      "line": "Star Wars The Black Series",
+      "character": "Marrok",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-pre-vizsla-the-clone-wars-17-2023-wave-14",
+      "name": "Pre Vizsla (The Clone Wars 17)",
+      "year": 2023,
+      "wave": "Wave 14",
+      "line": "Star Wars The Black Series",
+      "character": "Pre Vizsla",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-professor-huyang-ahsoka-07-2023-wave-14",
+      "name": "Professor Huyang (Ahsoka 07)",
+      "year": 2023,
+      "wave": "Wave 14",
+      "line": "Star Wars The Black Series",
+      "character": "Professor Huyang",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-r2-d2-artoo-detoo-the-mandalorian-32-2023-wave-14",
+      "name": "R2-D2 (Artoo-Detoo) (The Mandalorian 32)",
+      "year": 2023,
+      "wave": "Wave 14",
+      "line": "Star Wars The Black Series",
+      "character": "R2-D2",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-baylan-skoll-ahsoka-9-2023-wave-15",
+      "name": "Baylan Skoll (Ahsoka 9)",
+      "year": 2023,
+      "wave": "Wave 15",
+      "line": "Star Wars The Black Series",
+      "character": "Baylan Skoll",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-mandalorian-fleet-commander-the-mandalorian-34-2023-wave-15",
+      "name": "Mandalorian Fleet Commander (The Mandalorian 34)",
+      "year": 2023,
+      "wave": "Wave 15",
+      "line": "Star Wars The Black Series",
+      "character": "Mandalorian Fleet Commander",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-r5-d4-the-mandalorian-33-2023-wave-15",
+      "name": "R5-D4 (The Mandalorian 33)",
+      "year": 2023,
+      "wave": "Wave 15",
+      "line": "Star Wars The Black Series",
+      "character": "R5-D4",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-shin-hati-ahsoka-10-2023-wave-15",
+      "name": "Shin Hati (Ahsoka 10)",
+      "year": 2023,
+      "wave": "Wave 15",
+      "line": "Star Wars The Black Series",
+      "character": "Shin Hati",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-starkiller-gg-26-the-force-unleashed-2023-wave-15",
+      "name": "Starkiller (GG 26 - The Force Unleashed)",
+      "year": 2023,
+      "wave": "Wave 15",
+      "line": "Star Wars The Black Series",
+      "character": "Starkiller",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-krrsantan-the-book-of-boba-fett-04-2023-deluxe",
+      "name": "Krrsantan (The Book of Boba Fett 04)",
+      "year": 2023,
+      "wave": "Deluxe",
+      "line": "Star Wars The Black Series",
+      "character": "Krrsantan",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-luke-skywalker-grogu-tbobf-07-2023-deluxe",
+      "name": "Luke Skywalker & Grogu (TBOBF 07)",
+      "year": 2023,
+      "wave": "Deluxe",
+      "line": "Star Wars The Black Series",
+      "character": "Luke Skywalker & Grogu",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-rebel-commando-return-of-the-jedi-2023-deluxe",
+      "name": "Rebel Commando (Return of the Jedi)",
+      "year": 2023,
+      "wave": "Deluxe",
+      "line": "Star Wars The Black Series",
+      "character": "Rebel Commando",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-darth-malgus-gg-24-the-old-republic-2023-deluxe",
+      "name": "Darth Malgus (GG 24 - The Old Republic)",
+      "year": 2023,
+      "wave": "Deluxe",
+      "line": "Star Wars The Black Series",
+      "character": "Darth Malgus",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-pyke-soldier-the-book-of-boba-fett-07-2023-wave-16",
+      "name": "Pyke Soldier (The Book of Boba Fett 07)",
+      "year": 2023,
+      "wave": "Wave 16",
+      "line": "Star Wars The Black Series",
+      "character": "Pyke Soldier",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-tusken-chieftain-the-book-of-boba-fett-06-2023-wave-16",
+      "name": "Tusken Chieftain (The Book of Boba Fett 06)",
+      "year": 2023,
+      "wave": "Wave 16",
+      "line": "Star Wars The Black Series",
+      "character": "Tusken Chieftain",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-the-mandalorian-glavis-ringworld-tbobf-08-2023-wave-16",
+      "name": "The Mandalorian (Glavis Ringworld) (TBOBF 08)",
+      "year": 2023,
+      "wave": "Wave 16",
+      "line": "Star Wars The Black Series",
+      "character": "The Mandalorian",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-cad-bane-the-book-of-boba-fett-05-2023-wave-16",
+      "name": "Cad Bane (The Book of Boba Fett 05)",
+      "year": 2023,
+      "wave": "Wave 16",
+      "line": "Star Wars The Black Series",
+      "character": "Cad Bane",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-ki-adi-mundi-attack-of-the-clones-04-2024-wave-17",
+      "name": "Ki-Adi-Mundi (Attack of the Clones 04)",
+      "year": 2024,
+      "wave": "Wave 17",
+      "line": "Star Wars The Black Series",
+      "character": "Ki-Adi-Mundi",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-phase-i-clone-trooper-attack-of-the-clones-05-2024-wave-17",
+      "name": "Phase I Clone Trooper (Attack of the Clones 05)",
+      "year": 2024,
+      "wave": "Wave 17",
+      "line": "Star Wars The Black Series",
+      "character": "Phase I Clone Trooper",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-anakin-skywalker-the-phantom-menace-02-2024-wave-18",
+      "name": "Anakin Skywalker (The Phantom Menace 02)",
+      "year": 2024,
+      "wave": "Wave 18",
+      "line": "Star Wars The Black Series",
+      "character": "Anakin Skywalker",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-padm-amidala-the-phantom-menace-03-2024-wave-18",
+      "name": "Padm\u00e9 Amidala (The Phantom Menace 03)",
+      "year": 2024,
+      "wave": "Wave 18",
+      "line": "Star Wars The Black Series",
+      "character": "Padm\u00e9 Amidala",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-jedi-knight-yord-fandar-the-acolyte-04-2024-wave-19",
+      "name": "Jedi Knight Yord Fandar (The Acolyte 04)",
+      "year": 2024,
+      "wave": "Wave 19",
+      "line": "Star Wars The Black Series",
+      "character": "Jedi Knight Yord Fandar",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-jedi-master-indara-the-acolyte-05-2024-wave-19",
+      "name": "Jedi Master Indara (The Acolyte 05)",
+      "year": 2024,
+      "wave": "Wave 19",
+      "line": "Star Wars The Black Series",
+      "character": "Jedi Master Indara",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-jedi-master-sol-the-acolyte-02-2024-wave-19",
+      "name": "Jedi Master Sol (The Acolyte 02)",
+      "year": 2024,
+      "wave": "Wave 19",
+      "line": "Star Wars The Black Series",
+      "character": "Jedi Master Sol",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-mae-assassin-the-acolyte-06-2024-wave-19",
+      "name": "Mae (Assassin) (The Acolyte 06)",
+      "year": 2024,
+      "wave": "Wave 19",
+      "line": "Star Wars The Black Series",
+      "character": "Mae",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-osha-aniseya-the-acolyte-01-2024-wave-19",
+      "name": "Osha Aniseya (The Acolyte 01)",
+      "year": 2024,
+      "wave": "Wave 19",
+      "line": "Star Wars The Black Series",
+      "character": "Osha Aniseya",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-padawan-jecki-lon-the-acolyte-03-2024-wave-19",
+      "name": "Padawan Jecki Lon (The Acolyte 03)",
+      "year": 2024,
+      "wave": "Wave 19",
+      "line": "Star Wars The Black Series",
+      "character": "Padawan Jecki Lon",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-ahsoka-tano-peridea-ahsoka-11-2024-wave-20",
+      "name": "Ahsoka Tano (Peridea) (Ahsoka 11)",
+      "year": 2024,
+      "wave": "Wave 20",
+      "line": "Star Wars The Black Series",
+      "character": "Ahsoka Tano",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-cassian-andor-andor-2024-wave-20",
+      "name": "Cassian Andor (Andor)",
+      "year": 2024,
+      "wave": "Wave 20",
+      "line": "Star Wars The Black Series",
+      "character": "Cassian Andor",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-boba-fett-2019-archive-wave-1",
+      "name": "Boba Fett",
+      "year": 2019,
+      "wave": "Archive Wave 1",
+      "line": "Star Wars The Black Series",
+      "character": "Boba Fett",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-yoda-2019-archive-wave-2",
+      "name": "Yoda",
+      "year": 2019,
+      "wave": "Archive Wave 2",
+      "line": "Star Wars The Black Series",
+      "character": "Yoda",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-clone-commander-cody-2021-archive-wave-3",
+      "name": "Clone Commander Cody",
+      "year": 2021,
+      "wave": "Archive Wave 3",
+      "line": "Star Wars The Black Series",
+      "character": "Clone Commander Cody",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-grand-admiral-thrawn-2021-archive-wave-3",
+      "name": "Grand Admiral Thrawn",
+      "year": 2021,
+      "wave": "Archive Wave 3",
+      "line": "Star Wars The Black Series",
+      "character": "Grand Admiral Thrawn",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-han-solo-hoth-2021-archive-wave-3",
+      "name": "Han Solo (Hoth)",
+      "year": 2021,
+      "wave": "Archive Wave 3",
+      "line": "Star Wars The Black Series",
+      "character": "Han Solo",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-luke-skywalker-hoth-2021-archive-wave-3",
+      "name": "Luke Skywalker (Hoth)",
+      "year": 2021,
+      "wave": "Archive Wave 3",
+      "line": "Star Wars The Black Series",
+      "character": "Luke Skywalker",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-imperial-death-trooper-2021-archive-wave-4",
+      "name": "Imperial Death Trooper",
+      "year": 2021,
+      "wave": "Archive Wave 4",
+      "line": "Star Wars The Black Series",
+      "character": "Imperial Death Trooper",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-imperial-hovertank-driver-2021-archive-wave-4",
+      "name": "Imperial Hovertank Driver",
+      "year": 2021,
+      "wave": "Archive Wave 4",
+      "line": "Star Wars The Black Series",
+      "character": "Imperial Hovertank Driver",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-princess-leia-organa-2021-archive-wave-4",
+      "name": "Princess Leia Organa",
+      "year": 2021,
+      "wave": "Archive Wave 4",
+      "line": "Star Wars The Black Series",
+      "character": "Princess Leia Organa",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-lando-calrissian-skiff-guard-2022-archive-wave-6",
+      "name": "Lando Calrissian (Skiff Guard)",
+      "year": 2022,
+      "wave": "Archive Wave 6",
+      "line": "Star Wars The Black Series",
+      "character": "Lando Calrissian",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-chewbacca-a-new-hope-2023-archive-wave-7",
+      "name": "Chewbacca (A New Hope)",
+      "year": 2023,
+      "wave": "Archive Wave 7",
+      "line": "Star Wars The Black Series",
+      "character": "Chewbacca",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    },
+    {
+      "id": "bs-han-solo-the-force-awakens-2023-archive-wave-7",
+      "name": "Han Solo (The Force Awakens)",
+      "year": 2023,
+      "wave": "Archive Wave 7",
+      "line": "Star Wars The Black Series",
+      "character": "Han Solo",
+      "sourceUrl": "https://jeditemplearchives.com/star-wars-the-black-series-phase-iv/"
+    }
+  ]
+}
