@@ -17,6 +17,7 @@ export function CatalogView() {
   const [line, setLine] = useState<string | null>(null);
   const [year, setYear] = useState<number | null>(null);
   const [wave, setWave] = useState<string | null>(null);
+  const [filtersOpen, setFiltersOpen] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
   const meta = FigureSearch.meta();
 
@@ -68,8 +69,7 @@ export function CatalogView() {
           Catalog
         </h1>
         <p>
-          {meta.imagePolicy.generatedFallbacks} figures at {meta.scale}. Kenner, Vintage Collection, and Retro.
-          Generated plates, not product photos.
+          {meta.imagePolicy.generatedFallbacks} figures at {meta.scale}. Kenner, Vintage, and Retro.
         </p>
       </div>
       <div className="tools">
@@ -110,7 +110,7 @@ export function CatalogView() {
             </button>
           ) : null}
         </form>
-        <div className="chips" role="toolbar" aria-label="Line">
+        <div className="chips" role="toolbar" aria-label="Line and filters">
           <button type="button" className="chip" aria-pressed={line === null} onClick={() => setLine(null)}>
             All {FigureSearch.total()}
           </button>
@@ -125,49 +125,60 @@ export function CatalogView() {
               {lineShort(item)} {FigureSearch.countLine(item)}
             </button>
           ))}
+          <button
+            type="button"
+            className="chip"
+            aria-expanded={filtersOpen}
+            aria-controls="year-wave-filters"
+            onClick={() => setFiltersOpen((open) => !open)}
+          >
+            Year and wave
+          </button>
         </div>
-        <div className="selects">
-          <label>
-            <span>Year</span>
-            <select
-              value={year ?? ""}
-              onChange={(event) => setYear(event.target.value ? Number(event.target.value) : null)}
-            >
-              <option value="">Any year</option>
-              {years.map((item) => (
-                <option key={item} value={item}>
-                  {item}
-                </option>
-              ))}
-            </select>
-          </label>
-          <label>
-            <span>Wave</span>
-            <select value={wave ?? ""} onChange={(event) => setWave(event.target.value || null)}>
-              <option value="">Any wave</option>
-              {waves.map((item) => (
-                <option key={item} value={item}>
-                  {item}
-                </option>
-              ))}
-            </select>
-          </label>
-          {filtered ? (
-            <button
-              type="button"
-              className="btn"
-              onClick={() => {
-                setText("");
-                setQuery("");
-                setLine(null);
-                setYear(null);
-                setWave(null);
-              }}
-            >
-              Reset
-            </button>
-          ) : null}
-        </div>
+        {filtersOpen ? (
+          <div className="selects" id="year-wave-filters">
+            <label>
+              <span>Year</span>
+              <select
+                value={year ?? ""}
+                onChange={(event) => setYear(event.target.value ? Number(event.target.value) : null)}
+              >
+                <option value="">Any year</option>
+                {years.map((item) => (
+                  <option key={item} value={item}>
+                    {item}
+                  </option>
+                ))}
+              </select>
+            </label>
+            <label>
+              <span>Wave</span>
+              <select value={wave ?? ""} onChange={(event) => setWave(event.target.value || null)}>
+                <option value="">Any wave</option>
+                {waves.map((item) => (
+                  <option key={item} value={item}>
+                    {item}
+                  </option>
+                ))}
+              </select>
+            </label>
+            {filtered ? (
+              <button
+                type="button"
+                className="btn"
+                onClick={() => {
+                  setText("");
+                  setQuery("");
+                  setLine(null);
+                  setYear(null);
+                  setWave(null);
+                }}
+              >
+                Reset
+              </button>
+            ) : null}
+          </div>
+        ) : null}
         <p className="result-count" aria-live="polite">
           {results.length} {results.length === 1 ? "figure" : "figures"}
         </p>
@@ -250,13 +261,9 @@ function CatalogCard({
       <button type="button" className="card-open" onClick={onOpen}>
         <span className="plate-frame">
           <GeneratedPlate figure={figure} photoUrl={photoUrl} />
-          {owned > 0 ? (
-            <span className="owned-pill" aria-hidden="true">
-              {owned} owned
-            </span>
-          ) : null}
         </span>
         <span className="card-name">{figure.name}</span>
+        {owned > 0 ? <span className="owned-line">{owned} in collection</span> : null}
         <span className="card-meta">{meta}</span>
         {figure.character !== figure.name ? <span className="card-character">{figure.character}</span> : null}
         {owned > 0 ? <span className="sr-only">{owned} in collection</span> : null}

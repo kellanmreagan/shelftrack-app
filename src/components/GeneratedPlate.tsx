@@ -33,7 +33,7 @@ export function GeneratedPlate({ figure, photoUrl, variant = "card", labelled = 
           alt={labelled ? `${figure.name}, photo you added` : ""}
           aria-hidden={labelled ? undefined : true}
         />
-        <span className="photo-flag">Your photo</span>
+        {variant === "thumb" ? null : <span className="photo-flag">Your photo</span>}
       </span>
     );
   }

@@ -76,7 +76,7 @@ export function ShelfProvider({ children }: { children: ReactNode }) {
   const showToast = useCallback(
     (message: string, onUndo?: () => Promise<void>) => {
       const id = crypto.randomUUID();
-      setToasts((current) => [...current.slice(-1), { id, message, onUndo }]);
+      setToasts([{ id, message, onUndo }]);
       const timer = window.setTimeout(() => dismiss(id), 8000);
       timers.current.set(id, timer);
     },

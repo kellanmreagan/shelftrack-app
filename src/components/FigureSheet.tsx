@@ -41,6 +41,34 @@ export function FigureSheet({ figure, editId, onClose, onCloseEdit, onEdit }: Fi
           </div>
         )}
       </div>
+      {editing ? null : (
+        <div className="button-row">
+          <button type="button" className="btn btn-primary" onClick={() => void shelf.addToCollection(figure.id)}>
+            {copies.length > 0 ? "Add another copy" : "Add to collection"}
+          </button>
+          <button
+            type="button"
+            className="btn"
+            aria-pressed={Boolean(wish)}
+            onClick={() => void shelf.toggleWishlist(figure.id)}
+          >
+            {wish ? "On wishlist" : "Add to wishlist"}
+          </button>
+        </div>
+      )}
+      <div className="button-row">
+        <button type="button" className="btn" onClick={() => fileRef.current?.click()}>
+          Upload photo
+        </button>
+        <button type="button" className="btn" onClick={() => cameraRef.current?.click()}>
+          <IconCamera /> Take photo
+        </button>
+        {photoUrl ? (
+          <button type="button" className="btn btn-danger" onClick={() => void shelf.removePhoto(figure.id)}>
+            Remove photo
+          </button>
+        ) : null}
+      </div>
       <dl className="meta-grid">
         <div>
           <dt>Line</dt>
@@ -70,19 +98,6 @@ export function FigureSheet({ figure, editId, onClose, onCloseEdit, onEdit }: Fi
         </div>
       </dl>
       <p className="fine-print">{figure.image.license}</p>
-      <div className="button-row">
-        <button type="button" className="btn" onClick={() => fileRef.current?.click()}>
-          Upload photo
-        </button>
-        <button type="button" className="btn" onClick={() => cameraRef.current?.click()}>
-          <IconCamera /> Take photo
-        </button>
-        {photoUrl ? (
-          <button type="button" className="btn btn-danger" onClick={() => void shelf.removePhoto(figure.id)}>
-            Remove photo
-          </button>
-        ) : null}
-      </div>
       <input
         ref={fileRef}
         className="sr-only"
@@ -151,19 +166,6 @@ export function FigureSheet({ figure, editId, onClose, onCloseEdit, onEdit }: Fi
               </ul>
             </section>
           ) : null}
-          <div className="button-row sticky-actions">
-            <button type="button" className="btn btn-primary" onClick={() => void shelf.addToCollection(figure.id)}>
-              {copies.length > 0 ? "Add another copy" : "Add to collection"}
-            </button>
-            <button
-              type="button"
-              className="btn"
-              aria-pressed={Boolean(wish)}
-              onClick={() => void shelf.toggleWishlist(figure.id)}
-            >
-              {wish ? "On wishlist" : "Add to wishlist"}
-            </button>
-          </div>
         </>
       )}
     </Sheet>
