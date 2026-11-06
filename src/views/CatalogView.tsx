@@ -129,6 +129,7 @@ export function CatalogView() {
             type="button"
             className="chip"
             aria-expanded={filtersOpen}
+            aria-pressed={filtersOpen}
             aria-controls="year-wave-filters"
             onClick={() => setFiltersOpen((open) => !open)}
           >

@@ -33,6 +33,12 @@ async function walk(browser, viewport, label) {
   await page.goto(base, { waitUntil: "networkidle" });
   await page.getByRole("heading", { name: "Catalog", level: 1 }).waitFor();
   await shot(page, `${label}-catalog`);
+  await page.getByRole("button", { name: "Year and wave" }).click();
+  await page.locator("#year-wave-filters select").first().selectOption("1978");
+  await page.locator(".result-count", { hasText: "20 figures" }).waitFor();
+  await shot(page, `${label}-year-1978`);
+  await page.getByRole("button", { name: "Reset" }).click();
+  await page.locator(".result-count", { hasText: "343 figures" }).waitFor();
 
   await page.getByRole("link", { name: "Collection" }).click();
   await page.getByRole("heading", { name: "Your shelf is clear" }).waitFor();

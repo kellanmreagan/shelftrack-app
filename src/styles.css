@@ -43,7 +43,7 @@ a:hover { color: var(--ink); }
   outline: 3px solid var(--ink);
   outline-offset: 3px;
 }
-h1, h2, h3 { font-family: var(--serif); font-weight: 600; letter-spacing: -0.02em; }
+h1, h2, h3 { font-family: var(--serif); font-weight: 600; letter-spacing: -0.02em; scroll-margin-top: 84px; }
 p { margin: 0; }
 
 .sr-only {
@@ -278,6 +278,11 @@ p { margin: 0; }
   background: var(--gold);
   border-color: var(--gold);
   color: var(--ink-on-gold);
+}
+.card-open:focus-visible,
+.card-actions button:focus-visible,
+.chip:focus-visible {
+  outline-offset: -3px;
 }
 .plate-frame, .plate-wrap { position: relative; display: block; }
 .plate-frame {
@@ -546,8 +551,9 @@ body:has([role="dialog"]) .toast-region {
 }
 @media (min-width: 800px) {
   .backdrop { align-items: center; padding: 24px; }
-  .sheet { border-radius: 22px; max-height: min(82dvh, 820px); }
+  .sheet { border-radius: 22px; max-height: min(78dvh, 760px); }
   .grabber { display: none; }
+  .plate-detail, .plate-wrap-detail { width: min(100%, 200px); }
   body:has(.toast):has([role="dialog"]) .backdrop { padding-bottom: 96px; }
   body:has([role="dialog"]) .toast-region { top: auto; bottom: 16px; }
 }
